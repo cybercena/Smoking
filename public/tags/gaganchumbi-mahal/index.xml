@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaganchumbi Mahal on Sonam</title>
+    <link>http://localhost:1313/tags/gaganchumbi-mahal/</link>
+    <description>Recent content in Gaganchumbi Mahal on Sonam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Sonam Tamang </copyright>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/gaganchumbi-mahal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gaganchumbi Mahal</title>
+      <link>http://localhost:1313/writeups/ctf/ncactf/gaganchumbi_mahal/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/ncactf/gaganchumbi_mahal/</guid>
+      <description>Gaganchumbi Mahal is an OSINT-related CTF challenge hosted by Team NCA@Nepal. NCA@Nepal is Nepal’s active cybersecurity community and Capture The Flag (CTF) team, where learning and sharing knowledge are at the heart of everything they do. Their motto is &amp;lsquo;Learn and Share: Growing Together in Cybersecurity&amp;rsquo;.
+In the challenge, a short description and image were provided. You can see them in the image below: Whenever we are solving the challenge, we need to carefully read the description and set a clear goal for what we need to find out.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/ncactf/gaganchumbi_mahal/features.png" />
+    </item>
+    
+  </channel>
+</rss>

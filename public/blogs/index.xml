@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Sonam</title>
+    <link>http://localhost:1313/blogs/</link>
+    <description>Recent content in Blogs on Sonam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Sonam Tamang </copyright>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investigating Facebook Account Takeovers</title>
+      <link>http://localhost:1313/blogs/facebook_cookie_theft/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogs/facebook_cookie_theft/</guid>
+      <description>Background # I was chilling in my workspace, solving TryHackMe challenges, when one of my friends sent me a video. In the video, I saw that one of our mutual friend&amp;rsquo;s Facebook accounts had been compromised. A minute later, the friend whose Facebook had been hacked called me. I asked him what had happened, and he simply told me that he had been logged out of Facebook and no longer had access.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/facebook_cookie_theft/features.png" />
+    </item>
+    
+    <item>
+      <title>GitHub Email Leak</title>
+      <link>http://localhost:1313/blogs/github_email_leak/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogs/github_email_leak/</guid>
+      <description>Introduction: # GitHub is one of the most significant and widely used tools by IT professionals and developers. It serves as an essential platform for version control and code backup, enabling seamless collaboration and teamwork.
+Developers and programmers often place blind trust in GitHub when deploying their code. However, misconfiguration has become one of the biggest emerging issues in the security of the digital world.
+How Emails are Exposed # GitHub has a default feature that can expose your email address to anyone.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/github_email_leak/features.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scammer on Sonam</title>
+    <link>http://localhost:1313/tags/scammer/</link>
+    <description>Recent content in Scammer on Sonam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Sonam Tamang </copyright>
+    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/scammer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scammer</title>
+      <link>http://localhost:1313/writeups/ctf/wscctf/scammer/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/wscctf/scammer/</guid>
+      <description>Recently I have create a osint Challenge, &amp;lsquo;Scammer&amp;rsquo; for WSC CTF . Here is Writeup for the challenge.
+Description: # I met a web developer on Facebook and made a deal for him to create my portfolio for Rs. 5000. However, he is no longer in contact with me, and he has even deleted his Facebook account. I don’t know anything else about him, but fortunately, I have his Facebook profile URL[https://www.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/wscctf/scammer/features.png" />
+    </item>
+    
+    <item>
+      <title>Secret Mission</title>
+      <link>http://localhost:1313/writeups/ctf/wscctf/secret-mission/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/wscctf/secret-mission/</guid>
+      <description>Description: # Dear agents, It is come to our attention that the two possible spies we were to search for, have gone into hiding. It may not be a quick and easy task but it IS our duty to seek out their hideout location. We know the information we have right now is quite little but we have faith in you to not make us disappointed Note: Spy1 Alias: Thedius Age: 24 Gender: male Social media: https://www.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/wscctf/secret-mission/features.png" />
+    </item>
+    
+  </channel>
+</rss>

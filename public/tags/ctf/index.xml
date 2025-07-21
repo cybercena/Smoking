@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTF on Sonam</title>
+    <link>http://localhost:1313/tags/ctf/</link>
+    <description>Recent content in CTF on Sonam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Sonam Tamang </copyright>
+    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A challenge worth iPhone 16 pro max</title>
+      <link>http://localhost:1313/writeups/ctf/wscctf/iphone/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/wscctf/iphone/</guid>
+      <description>Recently, I got the chance to play the WSC CTF challenge organized by We Shield Cyber and sponsored by NCA Nepal and Hack@sec. There was an OSINT challenge titled &amp;ldquo;A Challenge Worth iPhone 16 Pro Max&amp;rdquo; with a description and an image provided.
+Description: # My friend, currently in Canada, sent me a picture of an institute with a challenge: if I can pinpoint the exact location, he&amp;#39;ll reward me with a brand-new iPhone 16 Pro Max.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/wscctf/iphone/features.png" />
+    </item>
+    
+    <item>
+      <title>Ransome</title>
+      <link>http://localhost:1313/writeups/ctf/wscctf/ransome/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/wscctf/ransome/</guid>
+      <description>[Note: the email was blured for user privacy]
+Here is a Write of the Osint Challenge ,&amp;lsquo;Ransome&amp;rsquo; from WSC CTF .
+Description: # I have recently received a threatening message from an unknown person. They are asking for ransom money, otherwise, they will leak my secrets. The only information I have is a email from where i got the message.Can you find more information about the threat actor. [Email:ping@username.com.np] Flag Format : WSC{ownerName_RegistrationDate_HostingProvider} For example : WSC{ram_gurung_2012-06-02_NestNepal} In this challenge we have to find out the name of the people who own that email, Registration date of domain and the hosting provider&amp;rsquo;s name.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/wscctf/ransome/features.png" />
+    </item>
+    
+    <item>
+      <title>Scammer</title>
+      <link>http://localhost:1313/writeups/ctf/wscctf/scammer/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/wscctf/scammer/</guid>
+      <description>Recently I have create a osint Challenge, &amp;lsquo;Scammer&amp;rsquo; for WSC CTF . Here is Writeup for the challenge.
+Description: # I met a web developer on Facebook and made a deal for him to create my portfolio for Rs. 5000. However, he is no longer in contact with me, and he has even deleted his Facebook account. I don’t know anything else about him, but fortunately, I have his Facebook profile URL[https://www.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/wscctf/scammer/features.png" />
+    </item>
+    
+    <item>
+      <title>Secret Mission</title>
+      <link>http://localhost:1313/writeups/ctf/wscctf/secret-mission/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/wscctf/secret-mission/</guid>
+      <description>Description: # Dear agents, It is come to our attention that the two possible spies we were to search for, have gone into hiding. It may not be a quick and easy task but it IS our duty to seek out their hideout location. We know the information we have right now is quite little but we have faith in you to not make us disappointed Note: Spy1 Alias: Thedius Age: 24 Gender: male Social media: https://www.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/wscctf/secret-mission/features.png" />
+    </item>
+    
+    <item>
+      <title>Gaganchumbi Mahal</title>
+      <link>http://localhost:1313/writeups/ctf/ncactf/gaganchumbi_mahal/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/ncactf/gaganchumbi_mahal/</guid>
+      <description>Gaganchumbi Mahal is an OSINT-related CTF challenge hosted by Team NCA@Nepal. NCA@Nepal is Nepal’s active cybersecurity community and Capture The Flag (CTF) team, where learning and sharing knowledge are at the heart of everything they do. Their motto is &amp;lsquo;Learn and Share: Growing Together in Cybersecurity&amp;rsquo;.
+In the challenge, a short description and image were provided. You can see them in the image below: Whenever we are solving the challenge, we need to carefully read the description and set a clear goal for what we need to find out.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/ncactf/gaganchumbi_mahal/features.png" />
+    </item>
+    
+    <item>
+      <title>Bhagini Sahar</title>
+      <link>http://localhost:1313/writeups/ctf/ncactf/bhagini_sahar/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/ncactf/bhagini_sahar/</guid>
+      <description>Bhagini Sahar is the CTF challenge related to OSINT hosted by NCA@Nepal. NCA@Nepal is an active CTF and cybersecurity community in Nepal. A short description and image are provided in the challenge. Whenever we need to find the geolocation of an image, we can use Google Image Search, Yandex, or Bing. I used Google Images to gather information about the above image, and I discovered that it is located in Chongqing, China</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/ncactf/bhagini_sahar/features.png" />
+    </item>
+    
+    <item>
+      <title>Ghumantey</title>
+      <link>http://localhost:1313/writeups/ctf/ncactf/ghumantey/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/ncactf/ghumantey/</guid>
+      <description>Recently, I created an OSINT challenge for Team NCA@Nepal . The challenge, called ‘Ghumantey,’ is considered the most confusing and difficult OSINT challenge in the NCA CTF. So far, only two teams have solved it at last moment.
+In the challenge, there is a short description and an image. The image above is the one provided in the challenge. We have multiple choices to identify the location name. Participants can use image search tools such as Google Images, Yandex, Bing, etc.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/ncactf/ghumantey/features.png" />
+    </item>
+    
+    <item>
+      <title>Ghumantey 2.0</title>
+      <link>http://localhost:1313/writeups/ctf/wscctf/ghumantey-2/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/wscctf/ghumantey-2/</guid>
+      <description>Description: # Last time, you guys helped me win the brand-new iPhone 16 that my friend promised me. I received the iPhone 16 because you solved the &amp;#39;ghumantey&amp;#39; puzzle. This time, my friend has promised me a MacBook. Recently, he visited a new place and uploaded a photo on his social media. Can you help me to won macbook? flag format : WSC{username_Country_Artist_Name_Car_Number} In the description, the challenge is suggesting they have a challenge, &amp;lsquo;Ghumantey&amp;rsquo; in previous CTF and asking us to find the username of his friends and other details.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/wscctf/ghumantey-2/features.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybercena on Sonam</title>
+    <link>http://localhost:1313/tags/cybercena/</link>
+    <description>Recent content in Cybercena on Sonam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Sonam Tamang </copyright>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cybercena/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gaganchumbi Mahal</title>
+      <link>http://localhost:1313/writeups/ctf/ncactf/gaganchumbi_mahal/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/ncactf/gaganchumbi_mahal/</guid>
+      <description>Gaganchumbi Mahal is an OSINT-related CTF challenge hosted by Team NCA@Nepal. NCA@Nepal is Nepal’s active cybersecurity community and Capture The Flag (CTF) team, where learning and sharing knowledge are at the heart of everything they do. Their motto is &amp;lsquo;Learn and Share: Growing Together in Cybersecurity&amp;rsquo;.
+In the challenge, a short description and image were provided. You can see them in the image below: Whenever we are solving the challenge, we need to carefully read the description and set a clear goal for what we need to find out.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/ncactf/gaganchumbi_mahal/features.png" />
+    </item>
+    
+    <item>
+      <title>Bhagini Sahar</title>
+      <link>http://localhost:1313/writeups/ctf/ncactf/bhagini_sahar/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/ncactf/bhagini_sahar/</guid>
+      <description>Bhagini Sahar is the CTF challenge related to OSINT hosted by NCA@Nepal. NCA@Nepal is an active CTF and cybersecurity community in Nepal. A short description and image are provided in the challenge. Whenever we need to find the geolocation of an image, we can use Google Image Search, Yandex, or Bing. I used Google Images to gather information about the above image, and I discovered that it is located in Chongqing, China</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/ncactf/bhagini_sahar/features.png" />
+    </item>
+    
+    <item>
+      <title>Ghumantey</title>
+      <link>http://localhost:1313/writeups/ctf/ncactf/ghumantey/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/ncactf/ghumantey/</guid>
+      <description>Recently, I created an OSINT challenge for Team NCA@Nepal . The challenge, called ‘Ghumantey,’ is considered the most confusing and difficult OSINT challenge in the NCA CTF. So far, only two teams have solved it at last moment.
+In the challenge, there is a short description and an image. The image above is the one provided in the challenge. We have multiple choices to identify the location name. Participants can use image search tools such as Google Images, Yandex, Bing, etc.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/ncactf/ghumantey/features.png" />
+    </item>
+    
+  </channel>
+</rss>

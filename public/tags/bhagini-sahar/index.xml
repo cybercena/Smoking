@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bhagini Sahar on Sonam</title>
+    <link>http://localhost:1313/tags/bhagini-sahar/</link>
+    <description>Recent content in Bhagini Sahar on Sonam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Sonam Tamang </copyright>
+    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bhagini-sahar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bhagini Sahar</title>
+      <link>http://localhost:1313/writeups/ctf/ncactf/bhagini_sahar/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/ncactf/bhagini_sahar/</guid>
+      <description>Bhagini Sahar is the CTF challenge related to OSINT hosted by NCA@Nepal. NCA@Nepal is an active CTF and cybersecurity community in Nepal. A short description and image are provided in the challenge. Whenever we need to find the geolocation of an image, we can use Google Image Search, Yandex, or Bing. I used Google Images to gather information about the above image, and I discovered that it is located in Chongqing, China</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/ncactf/bhagini_sahar/features.png" />
+    </item>
+    
+  </channel>
+</rss>

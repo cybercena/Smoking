@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghumantey on Sonam</title>
+    <link>http://localhost:1313/tags/ghumantey/</link>
+    <description>Recent content in Ghumantey on Sonam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Sonam Tamang </copyright>
+    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ghumantey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ghumantey</title>
+      <link>http://localhost:1313/writeups/ctf/ncactf/ghumantey/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/ncactf/ghumantey/</guid>
+      <description>Recently, I created an OSINT challenge for Team NCA@Nepal . The challenge, called ‘Ghumantey,’ is considered the most confusing and difficult OSINT challenge in the NCA CTF. So far, only two teams have solved it at last moment.
+In the challenge, there is a short description and an image. The image above is the one provided in the challenge. We have multiple choices to identify the location name. Participants can use image search tools such as Google Images, Yandex, Bing, etc.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/ncactf/ghumantey/features.png" />
+    </item>
+    
+  </channel>
+</rss>

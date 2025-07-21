@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tryhackme on Sonam</title>
+    <link>http://localhost:1313/tags/tryhackme/</link>
+    <description>Recent content in Tryhackme on Sonam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Sonam Tamang </copyright>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kitty writeup - Tryhackme</title>
+      <link>http://localhost:1313/writeups/tryhackme/kitty/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/tryhackme/kitty/</guid>
+      <description>let&amp;rsquo;s on the machine and start with a nmap scan on the ipaddress. nmap -sVC [machine ip] &amp;gt; nmapscan.txt using this command i scan the ipaddress and write it&amp;rsquo;s output in nmapscan.txt file.
+Output of the Scan : # Starting Nmap 7.95 ( https://nmap.org ) at 2025-01-28 14:26 +0545 Nmap scan report for [machine ip] Host is up (0.19s latency). Not shown: 998 closed tcp ports (reset) PORT STATE SERVICE VERSION 22/tcp open ssh OpenSSH 8.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/tryhackme/kitty/features.png" />
+    </item>
+    
+    <item>
+      <title>RootMe writeup - Tryhackme</title>
+      <link>http://localhost:1313/writeups/tryhackme/rootme/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/tryhackme/rootme/</guid>
+      <description>in this challenge we have to perform enumeration to get shell and escalate the root privilege.let&amp;rsquo;s deploy the machine.
+I started network scanning with nmap to see what services are running on the machine.i used nmap -sVC &amp;lt;ipaddress&amp;gt; &amp;gt; nmapscan.txt command to write the output in nmapscan.txt file for safety of information.
+this is what i got in nmap scan :
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-01-24 14:30 +0545 Nmap scan report for 10.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/tryhackme/rootme/features.png" />
+    </item>
+    
+  </channel>
+</rss>

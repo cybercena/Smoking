@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IPhone Challenge on Sonam</title>
+    <link>http://localhost:1313/tags/iphone-challenge/</link>
+    <description>Recent content in IPhone Challenge on Sonam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Sonam Tamang </copyright>
+    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/iphone-challenge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A challenge worth iPhone 16 pro max</title>
+      <link>http://localhost:1313/writeups/ctf/wscctf/iphone/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/wscctf/iphone/</guid>
+      <description>Recently, I got the chance to play the WSC CTF challenge organized by We Shield Cyber and sponsored by NCA Nepal and Hack@sec. There was an OSINT challenge titled &amp;ldquo;A Challenge Worth iPhone 16 Pro Max&amp;rdquo; with a description and an image provided.
+Description: # My friend, currently in Canada, sent me a picture of an institute with a challenge: if I can pinpoint the exact location, he&amp;#39;ll reward me with a brand-new iPhone 16 Pro Max.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/wscctf/iphone/features.png" />
+    </item>
+    
+    <item>
+      <title>Ransome</title>
+      <link>http://localhost:1313/writeups/ctf/wscctf/ransome/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/writeups/ctf/wscctf/ransome/</guid>
+      <description>[Note: the email was blured for user privacy]
+Here is a Write of the Osint Challenge ,&amp;lsquo;Ransome&amp;rsquo; from WSC CTF .
+Description: # I have recently received a threatening message from an unknown person. They are asking for ransom money, otherwise, they will leak my secrets. The only information I have is a email from where i got the message.Can you find more information about the threat actor. [Email:ping@username.com.np] Flag Format : WSC{ownerName_RegistrationDate_HostingProvider} For example : WSC{ram_gurung_2012-06-02_NestNepal} In this challenge we have to find out the name of the people who own that email, Registration date of domain and the hosting provider&amp;rsquo;s name.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctf/wscctf/ransome/features.png" />
+    </item>
+    
+  </channel>
+</rss>
