@@ -11,7 +11,7 @@ This is a script that create a menu-based terminal application to control smokep
 4. Run with sudo privileges : ``sudo ./smoking.sh``
 5. install smokeping by selecting option '0'
 
-#Requirements
+# Requirements
 ``smokeping`` and ``apache2``
 
 ## Notes:
