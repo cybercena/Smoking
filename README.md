@@ -11,6 +11,6 @@ This is a script that create a menu-based terminal application to control smokep
 4. Run with sudo privileges : ``sudo ./smoking.sh``
 
 ## Notes:
-you can directly install smokeping by using command ```sudo apt install smokeping```  or you can install it by selecting option to install smokeping from smoking script, if you are using debian based system or your system's package manager provide smokeping by default.
+all the distros that support ``apt`` can directly install smokeping using the install options from Smoking's GUI. This scripts is written specially focusing kalilinux user and debian based system.
 
 ![smokeping ko screenshot](image.png)
